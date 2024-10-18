@@ -67,3 +67,58 @@ button:hover {
     margin-top: -10px;
     margin-bottom: 10px;
 }
+#endereço completo 
+   /* Estilo do botão */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s; 
+}
+#telefone{
+
+}
+/* Estilo do botão */
+#button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s; }
+
+ #data de nascimento{
+    /* Estilo do botão */
+#button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s; }
+
+ }
+ #CPF{
+    /* Estilo do botão */
+#button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s; }
+ }
