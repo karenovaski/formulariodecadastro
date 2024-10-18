@@ -16,12 +16,12 @@ O projeto consiste em um formulário de cadastro para plataformas de e-Commerce,
 3. **Atualizações**: Mantenha o README atualizado à medida que o projeto evolui.
 
 # FUNCIONALIDADES
-Nome: Campo de texto para inserir o nome completo do usuário.
-E-mail: Campo com validação de formato de e-mail.
-Senha: Campo para senha, com regras de segurança (mínimo de 8 caracteres, incluindo letras e números).
-CPF: Campo com validação de CPF.
-Data de Nascimento: Campo de seleção de data.
-Endereço Completo: Integração com API para autocomplete de endereços.
+* Nome: Campo de texto para inserir o nome completo do usuário.
+* E-mail: Campo com validação de formato de e-mail.
+* Senha: Campo para senha, com regras de segurança (mínimo de 8 caracteres, incluindo letras e números).
+* CPF: Campo com validação de CPF.
+* Data de Nascimento: Campo de seleção de data.
+* Endereço Completo: Integração com API para autocomplete de endereços.
 
 # TECNOLOGIAS UTILIZADAS
 Frontend: HTML, CSS, JavaScript
